@@ -6,7 +6,6 @@ autosize: true
 
 introduction
 
-
 methods
 
 proposed analyses
